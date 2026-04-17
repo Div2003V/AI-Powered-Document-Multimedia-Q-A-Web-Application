@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  input[type="file"], input[type="text"] {
+    margin-top: 20px;
+    padding: 10px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+  }
+  
